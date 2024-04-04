@@ -72,5 +72,16 @@ h1.site-title span {
 
 .choose-colors {
   display: flex;
-  flex-direction: row;
+  justify-content: center;
+}
+
+.color-option__btn {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.color-option__name {
+  display: flex;
+  justify-content: space-between;
 }
