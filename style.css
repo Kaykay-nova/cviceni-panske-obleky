@@ -59,3 +59,18 @@ h1.site-title span {
   stroke: #000;
   stroke-width: 2;
 }
+
+.product {
+  display: flex;
+  justify-content: space-between;
+}
+
+.product__colors {
+  display: flex;
+  flex-direction: column;
+}
+
+.choose-colors {
+  display: flex;
+  flex-direction: row;
+}
